@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Lucas Zelleroff  
-Sou um desenvolvedor focado em **Python**, **JavaScript** e **MariaDB**, sempre buscando melhorar minhas habilidades a cada dia.
+Sou um desenvolvedor iniciante e estou focando em **Python**, **JavaScript** e **MariaDB**, sempre buscando melhorar minhas habilidades a cada dia.
 
 ## 🚀 Tecnologias que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
