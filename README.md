@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Lucas Affonso Purkott Zelleroff  
+# 👋 Olá, sou o Lucas Zelleroff  
 Sou um desenvolvedor focado em **Python**, **JavaScript** e **MariaDB**, sempre buscando melhorar minhas habilidades a cada dia.
 
 ## 🚀 Tecnologias que uso
